@@ -1,4 +1,4 @@
-# Diabetes Classification Project
+# Diabetes Classification
 
 ## Overview
 
